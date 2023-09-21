@@ -1,7 +1,7 @@
  Olá! Sou a Émery Moriconi 😄
 
 - 😊 Sou estudante de Ciência da Computação na Universidade Federal do Piauí.
-- 🐞 Tenho 21 anos!
+- 🐞 Tenho 22 anos!
 - 🌱 Ultimamente estou me dedicando a aprender HTML5 e CSS!
 - 🤔 Possivelmente ainda preciso me empenhar mais para aprender JavaScript e Python...
 - 📫 Como me encontrar? Meu e-mail é, na verdade, uma boa opção para isso e você pode encontrá-lo logo ao fim desta página.
