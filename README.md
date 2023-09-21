@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/emerymoriconi">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&bg_color=FFEC5C"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&bg_color=FFEC5C"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&bg_color=F8AE61"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&bg_color=F8AE61"/>
 </div>
 
 <div style="display: inline_block"><br>
