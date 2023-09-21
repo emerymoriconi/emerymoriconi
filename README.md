@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/emerymoriconi">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&bg_color=E69138"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
