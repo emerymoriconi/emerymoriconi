@@ -1,6 +1,6 @@
  # Olá! Sou a Émery Moriconi. Bem-vindo ao meu GitHub
 
- ### Mais abaixo algumas formas de contato pessoal estão disponibilizadas
+ ### Mais abaixo neste *readme* algumas formas de contato pessoal estão disponibilizadas
 
 
 - Sou estudante de Ciência da Computação na Universidade Federal do Piauí.
@@ -12,10 +12,11 @@
 
 <div>
   <a href="https://github.com/emerymoriconi">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=radical"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=highcontrast"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&theme=highcontrast"/>
 </div>
 
+## Linguagens mais usadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Émery-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Émery-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +26,7 @@
   <img align="center" alt="Émery-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
  
- ##
+ ## Contatos
  
 <div> 
   <a href="https://instagram.com/emeryfmoriconi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
