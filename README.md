@@ -1,16 +1,19 @@
  # Olá! Sou a Émery Moriconi. Bem-vindo ao meu GitHub
+ 
+ <div align="center">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25%" align="center"/>
+</div>
 
- ### Mais abaixo neste *readme* algumas formas de contato pessoal estão disponibilizadas
+### Mais abaixo neste *readme* algumas formas de contato pessoal estão disponibilizadas
 
-
-- Sou estudante de Ciência da Computação na Universidade Federal do Piauí.
+- Sou estudante de Ciência da Computação na [Universidade Federal do Piauí](https://www.ufpi.br/).
 - Tenho 22 anos e moro em Teresina, Piauí.
 - Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
 - Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java e C++.
 - Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais.
 - Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
-<div>
+<div align="center">
   <a href="https://github.com/emerymoriconi">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=highcontrast"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&theme=highcontrast"/>
