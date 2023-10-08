@@ -1,11 +1,14 @@
- Olá! Sou a Émery Moriconi 😄
+ # Olá! Sou a Émery Moriconi. Bem-vindo ao meu GitHub
 
-- 😊 Sou estudante de Ciência da Computação na Universidade Federal do Piauí.
-- 🐞 Tenho 22 anos!
-- 🌱 Ultimamente estou me dedicando a aprender HTML5 e CSS!
-- 🤔 Possivelmente ainda preciso me empenhar mais para aprender JavaScript e Python...
-- 📫 Como me encontrar? Meu e-mail é, na verdade, uma boa opção para isso e você pode encontrá-lo logo ao fim desta página.
-- 😄 Pronomes: ela/dela
+ ### Mais abaixo algumas formas de contato pessoal estão disponibilizadas
+
+
+- Sou estudante de Ciência da Computação na Universidade Federal do Piauí.
+- Tenho 22 anos e moro em Teresina, Piauí.
+- Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
+- Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java e C++.
+- Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais.
+- Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
 <div>
   <a href="https://github.com/emerymoriconi">
@@ -19,6 +22,7 @@
   <img align="center" alt="Émery-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Émery-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Émery-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Émery-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
  
  ##
@@ -28,5 +32,3 @@
   <a href = "mailto:emerymoriconi09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/nallalisall" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-
-![Snake animation](https://github.com/emerymoriconi/emerymoriconi/blob/output/github-contribution-grid-snake.svg)
