@@ -1,7 +1,7 @@
  # Olá! Sou a Émery Moriconi. Bem-vindo ao meu GitHub
  
  <div align="center">
- <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25%" align="center"/>
+ <img src="https://i.picasion.com/pic92/e2816eda1daa90077e9fe5b676fec67d.gif" width="20%" align="center"/>
 </div>
 
 ### Mais abaixo neste *readme* algumas formas de contato pessoal estão disponibilizadas
