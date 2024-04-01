@@ -11,7 +11,7 @@
 - Sou estudante de Ciência da Computação na [Universidade Federal do Piauí](https://www.ufpi.br/).
 - Tenho 22 anos e moro em Teresina, Piauí.
 - Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
-- Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java e C++.
+- Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java, JavaScript e C++.
 - Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais.
 - Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
@@ -29,6 +29,9 @@
   <img align="center" alt="Émery-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Émery-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Émery-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Émery-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Émery-Keras" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/>
+  <img align="center" alt="Émery-TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 </div>
  
  ## Contatos
