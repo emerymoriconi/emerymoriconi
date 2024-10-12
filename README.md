@@ -9,10 +9,10 @@
 ### Mais abaixo neste *readme* algumas formas de contato pessoal estão disponibilizadas
 
 - Sou estudante de Ciência da Computação na [Universidade Federal do Piauí](https://www.ufpi.br/).
-- Tenho 22 anos e moro em Teresina, Piauí.
+- Tenho 23 anos e moro em Teresina, Piauí.
 - Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
 - Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java, JavaScript e C++.
-- Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais.
+- Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais, assim como aprofundar minhas habilidades no back-end.
 - Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
 <div align="center">
@@ -34,10 +34,8 @@
   <img align="center" alt="Émery-TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
 </div>
  
- ## Contatos
+ ## Contato
  
-<div> 
-  <a href="https://instagram.com/emeryfmoriconi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:emerymoriconi09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/nallalisall" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
