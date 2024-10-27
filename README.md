@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/emerymoriconi">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerymoriconi&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emerymoriconi&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false&order=1" height="180cm" alt="activity-graph graph"/>
 </div>
 
 ## Linguagens e bibliotecas mais usadas
