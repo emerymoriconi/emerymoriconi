@@ -13,6 +13,7 @@
 - Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.
 - Gosto de aperfeiçoar meus conhecimentos em linguagens como Python, Java, JavaScript e C++.
 - Ultimamente tenho me dedicado à estudar um pouco mais sobre Deep Learning e redes neurais, assim como aprofundar minhas habilidades no back-end.
+- Também estou sempre buscando desenvolver minhas habilidades em algoritmos de Programação Competitiva, com foco na Maratona de Programação 🎈! 
 - Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
 <div align="center">
