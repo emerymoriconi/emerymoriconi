@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/emerymoriconi">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=emerymoriconi&show_icons=true&theme=vision-friendly-dark"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emerymoriconi&radius=16&theme=high-contrast&area=true&order=5&hide_title=false&hide_border=false&order=1" height="150cm" alt="activity-graph graph"/>
+  <img height="150cm" src="https://github-readme-streak-stats.herokuapp.com?user=emerymoriconi&theme=highcontrast&">
 </div>
 
 ## Linguagens e bibliotecas mais usadas
@@ -39,4 +39,5 @@
  
 <div>
   <a href = "mailto:emerymoriconi09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/%C3%A9mery-freitas-moriconi/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
