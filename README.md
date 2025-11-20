@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-I am a 23-year-old Computer Science student, passionate about technology, continuously improving my skills in JavaScript and Python, while also studying Deep Learning, neural networks, and back-end development. Additionally, I enjoy competitive programming and use my GitHub to document my learning journey through constant practice and new challenges.
+I am a 24-year-old Computer Science student, passionate about technology, continuously improving my skills in JavaScript and Python, while also studying Deep Learning, neural networks, and back-end development. Additionally, I enjoy competitive programming and use my GitHub to document my learning journey through constant practice and new challenges.
 
 ## 🚀 What I'm Up To
 
